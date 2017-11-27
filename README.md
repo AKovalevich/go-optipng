@@ -16,7 +16,7 @@ $ go get github.com/AKovalevich/go-optipng
 
 ```go
 import (
-    pngquant "github.com/AKovalevich/go-optipng"
+    optipng "github.com/AKovalevich/go-optipng"
 )
 ```
 
